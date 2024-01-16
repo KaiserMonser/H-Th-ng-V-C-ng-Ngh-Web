@@ -1,2 +1,2 @@
-# H-Th-ng-V-C-ng-Ngh-Web
+# HeThongVaCongNgheWeb
 Nộp bài tập môn CN Web
